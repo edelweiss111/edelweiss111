@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmp5d2h6bmk5dHJidnRiNDQ1cm1mMDczdnpqbnJrY25heGs1eWZyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmp5d2h6bmk5dHJidnRiNDQ1cm1mMDczdnpqbnJrY25heGs1eWZyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/s_saveliy1">
