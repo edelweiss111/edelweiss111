@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkzcnZ3c3d3ZGwzZmt2M3Q2NWdyZXAyeXF3ZWQ1dnNnbnliZ2Y2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)" width="100"/>
+</div>
+
 <!--
 **edelweiss111/edelweiss111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
