@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :computer: **Web Developer & Tech Enthusiast**
+### :computer: **Web Developer && Tech Enthusiast**
 <div id="header" align="center">
   <img src="https://tenor.com/ru/view/penguin-pengu-code-coding-typing-gif-7583067593778798133.gif" width="300"/>
 </div>
